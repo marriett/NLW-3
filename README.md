@@ -55,9 +55,9 @@ Aplicação Happy | Desafio da semana #3 da Next Level Week - Rocketseat
 
 <h2>Outras Informações</h2>
 <ul>
-    <li>Desenvolvido por: <a href="https://github.com/marriett" target="_BLANK">Marriett Albuquerque</a> </li>
-    <li>Instrutor: <a href="https://github.com/maykbrito" target="_BLANK"> Mayk Brito</a></li>
-    <li>Contexto: <a href="https://rocketseat.com.br/" target="_BLANK"> NLW#3 - Rocketseat</a></li>
+    <li>Desenvolvido por: <a href="https://github.com/marriett" target="_blank">Marriett Albuquerque</a> </li>
+    <li>Instrutor: <a href="https://github.com/maykbrito" target="_blank"> Mayk Brito</a></li>
+    <li>Contexto: <a href="https://rocketseat.com.br/" target="_blank"> NLW#3 - Rocketseat</a></li>
 </ul>
 
 
