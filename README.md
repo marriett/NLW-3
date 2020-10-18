@@ -13,7 +13,7 @@ Aplicação Happy | Desafio da semana #3 da Next Level Week - Rocketseat
     <li>Consultar detalhes sobre Casas de Acolhimento cadastradas</li>
     <ul>
         <li>Imagens</li>
-        <li><Descrição/li>
+        <li>Descrição</li>
         <li>Localização</li>
         <li>Horários de Visita</li>
         <li>Contato</li>
