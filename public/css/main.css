@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%; /*equivalente a 10px - ajusta a proporção relativa da medida rem*/
+}
+
+body {
+    height: 100vh;
+    color: white;
+    background: #ebf2f5;
+}
+
+body, input, button, textarea {
+    font: 400 1.8rem/1 'Nunito', sans-serif;   
+
+    /*font-size: 18px;
+    line-height: 1;
+    font-weight: 400;
+    font-family: 'Nunito', sans-serif; /*se não achar a nunito, chama uma fonte sans-serif
+    */
+}
+
+/*novo atributo*/
+.nlw3 img{
+    position: fixed;
+    right: 4rem;
+    top: 4rem;
+    z-index: 10;
+    margin: 0;
+    padding: 0;
+    width: 6.4rem;
+    height: 6.4rem;
+    box-shadow: 17.2868px 27.65px 41.48px rgba(23, 142, 166, 0.16);
+    border-radius: 12px;
+
+    opacity: .8;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: background-color .2s;
+
+
+}
