@@ -51,7 +51,7 @@ Aplicação Happy | Desafio da semana #3 da Next Level Week - Rocketseat
 
 
 <h2>O que eu aprendi</h2>
-<p>Depois de uma longa pausa nos estudos sobre desenvolvimento, a NLW#3 foi a oportunidade perfeita para retomar o caminho com muita empolgação. A trilha para iniciantes se mostra intensa, desafiadora e igualmente gratificante. A metodologia dá um gostinho não apenas de como trabalhar com as tecnologias e ferramentas, ela também evidencia o quanto nós desenvolvedores podemos nos beneficiar ao trabalhar junto com a comunidade. Não importa o seu nível, quando você conta com o apoio de uma comunidade, sempre haverá algo a aprender e algo a ensinar.</p>
+<p>Depois de uma longa pausa nos estudos sobre desenvolvimento, a NLW#3 foi a oportunidade perfeita para retomar o caminho com muita empolgação. A trilha Discovery, para iniciantes, se mostra intensa, desafiadora e igualmente gratificante. A metodologia dá um gostinho não apenas de como trabalhar com as tecnologias e ferramentas, ela também evidencia o quanto nós desenvolvedores podemos nos beneficiar ao trabalhar junto com a comunidade. Não importa o seu nível, quando você conta com o apoio de uma comunidade, sempre haverá algo a aprender e algo a ensinar.</p>
 
 <h2>Outras Informações</h2>
 <ul>
